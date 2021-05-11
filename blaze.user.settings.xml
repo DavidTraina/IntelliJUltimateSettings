@@ -1,5 +1,6 @@
 <application>
   <component name="BlazeUserSettings">
-    <option name="bazelBinaryPath" value="~/code/main/tools/bazel" />
+    <option name="bazelBinaryPath" value="$USER_HOME$/code/main/tools/bazel" />
+    <option name="syncStatusPopupShown" value="true" />
   </component>
 </application>
