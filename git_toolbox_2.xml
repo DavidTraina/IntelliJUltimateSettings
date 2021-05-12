@@ -18,6 +18,8 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="blameInlineAuthorNameType" value="EMAIL_USER" />
+    <option name="blameStatusAuthorNameType" value="EMAIL_USER" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
