@@ -8,5 +8,8 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.*" />
+    <EXCLUDED_PACKAGE NAME="edu.emory.mathcs.backport.*" />
+    <EXCLUDED_PACKAGE NAME="org.testng.collections.*" />
   </component>
 </application>
