@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/code/main/regions/refresh/java/redfin/regions/refresh/neighborhoods/NeighborhoodsMappingProcessor.java [.workspace]'" />
+    <option name="defaultScopeName" value="File '~/code/main/regions/refresh/java/redfin/regions/refresh/neighborhoods/NeighborhoodsMappingProcessor.java [.workspace]'" />
+    <option name="SEARCH_SCOPE" value="File '~/code/main/regions/refresh/java/redfin/regions/refresh/neighborhoods/NeighborhoodsMappingProcessor.java [.workspace]'" />
   </component>
 </application>
